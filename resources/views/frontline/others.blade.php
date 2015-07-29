@@ -165,28 +165,16 @@
 				    		2
 				    	</td>
 				    	<td>
-				    		Pay reconnection fee and settle outstanding accounts, if any 
+				    		Pay necessary fees for materials replaced, if any 
 				    	</td>
 				    	<td>				    		
-    						<p class='indent'>Accept payment and issue corresponding OR.</p>
-   							<p class='indent'>Prepare Reconnection Job Order & forward to:</p>
-   							<p class='indent'><b>a</b>. GM for approval </p>
-   							<p class='indent'><b>b</b>. Maintenance man for execution</p>   							
+    						<p class='indent'>Accept payment and issue corresponding OR</p>   							
 				    	</td>
 				    	<td class='this-to-center'>
-				    		2 minutes<br />
-				    		<br />
-				    		<br />
-				    		<br />
-				    		<br />
-				    		<p>3 minutes</p>
-				    		<p>52 minutes</p>
+				    		3 minutes<br />
 				    	</td>
 				    	<td class='this-to-center'>
-				    		<br />
 				    		<p>Billing & Collection Clerk/ Cashier</p>
-				    		<br />
-				    		<p>Maintenance Man</p>
 				    	</td>
 				    	<td class='this-to-center'>    <br /> 		
 				    		Aggregate amount indicated on the Statement of Account or Water Bill, if any
