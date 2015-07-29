@@ -145,9 +145,9 @@
 				    		<p class='indent'>Note down applicant’s name & address and have client fill up Service Request Form (SRF).        Forward approved SRF to Maintenance man for execution/ investigation.</p>
 				    	</td>
 				    	<td class='this-to-center'>
-				    		3 minutes <br /> <br />
-				    		1 hour – meter leak <br />
-				    		1 day – main line leaks<br />
+				    		<h5>3 minutes</h5> <br /> <br />
+				    		<h5>1 hour – meter leak</h5><br />
+				    		<h5> day – main line leaks</h5><br />
 				    	</td>
 				    	<td class='this-to-center'>
 				    		Billing & Collection Clerk/ Cashier
@@ -156,7 +156,6 @@
 				    		Aggregate amount indicated on the Statement of Account or Water Bill, if any
 				    	</td>
 				    	<td class='this-to-center'>
-				    		<br /><br />
 				    		Service Request Form
 				    	</td>
 				    </tr>
@@ -176,12 +175,11 @@
 				    	<td class='this-to-center'>
 				    		<p>Billing & Collection Clerk/ Cashier</p>
 				    	</td>
-				    	<td class='this-to-center'>    <br /> 		
-				    		Aggregate amount indicated on the Statement of Account or Water Bill, if any
+				    	<td class='this-to-center'>    
+
 				    	</td>
 				    	<td class='this-to-center'>
-				    		<br /><br />
-				    		Reconnection Job order
+				    		
 				    	</td>
 				    </tr>
 				  </table>
